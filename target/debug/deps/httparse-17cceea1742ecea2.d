@@ -1,0 +1,12 @@
+/home/doggy/rust_workplace/trpl/target/debug/deps/libhttparse-17cceea1742ecea2.rmeta: /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/lib.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/iter.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/macros.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/mod.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/swar.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/sse42.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/avx2.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/runtime.rs
+
+/home/doggy/rust_workplace/trpl/target/debug/deps/httparse-17cceea1742ecea2.d: /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/lib.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/iter.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/macros.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/mod.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/swar.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/sse42.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/avx2.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/runtime.rs
+
+/home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/lib.rs:
+/home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/iter.rs:
+/home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/macros.rs:
+/home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/mod.rs:
+/home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/swar.rs:
+/home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/sse42.rs:
+/home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/avx2.rs:
+/home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/runtime.rs:

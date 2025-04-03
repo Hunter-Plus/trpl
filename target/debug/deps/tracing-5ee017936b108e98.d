@@ -1,0 +1,13 @@
+/home/doggy/rust_workplace/trpl/target/debug/deps/libtracing-5ee017936b108e98.rmeta: /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/lib.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/macros.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/dispatcher.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/field.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/instrument.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/level_filters.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/span.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/stdlib.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/subscriber.rs
+
+/home/doggy/rust_workplace/trpl/target/debug/deps/tracing-5ee017936b108e98.d: /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/lib.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/macros.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/dispatcher.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/field.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/instrument.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/level_filters.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/span.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/stdlib.rs /home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/subscriber.rs
+
+/home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/lib.rs:
+/home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/macros.rs:
+/home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/dispatcher.rs:
+/home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/field.rs:
+/home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/instrument.rs:
+/home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/level_filters.rs:
+/home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/span.rs:
+/home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/stdlib.rs:
+/home/doggy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/subscriber.rs:
